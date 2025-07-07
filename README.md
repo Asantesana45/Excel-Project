@@ -18,11 +18,10 @@ This is a comprehensive **data analytics case study** performed using Microsoft 
 
 ```
 
-📂 1_EXCEL-PROJECT/
-│
+
 ├── 📄 Bike_Sales_Analysis.xlsx     # Main Excel workbook with all sheets and dashboard
 ├── 📄 README.md                    # README file
-├── 🖼️ dash.png                     # Dashboard image (used in README)
+├── 🖼️ DASH.PNG                     # Dashboard image (used in README)
 ├── 📂 data/
 │   └── 📄 bike_buyers.xlsx         # Raw dataset used for the project
 
