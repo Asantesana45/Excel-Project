@@ -133,7 +133,7 @@ Based on all pivot table insights:
 
 The Excel file includes a polished dashboard with:
 - Interactive **slicers**
-- Visuals (bar, pie, and column charts)
+- Visuals (bar and line charts)
 - Clean layout for presentations or stakeholders
 
 > 📁 Dashboard is in the final sheet: `Dashboard`
